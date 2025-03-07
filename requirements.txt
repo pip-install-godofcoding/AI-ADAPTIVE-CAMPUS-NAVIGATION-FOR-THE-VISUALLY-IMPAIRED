@@ -1,0 +1,20 @@
+# requirements.txt
+pvporcupine
+pyaudio
+pyttsx3
+speechrecognition
+scapy
+flask
+googlemaps
+ultralytics
+opencv-python
+numpy
+fastapi
+uvicorn
+google-generativeai
+pydantic
+requests
+streamlit
+dotenv
+
+
