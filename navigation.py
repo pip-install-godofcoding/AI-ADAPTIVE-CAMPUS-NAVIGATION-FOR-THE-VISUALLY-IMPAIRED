@@ -7,7 +7,7 @@ import googlemaps
 import re
 
 # Initialize Google Maps client with your API Key
-API_KEY = "AIzaSyAm9gLLOQHYpdh3ifltfOBQQWfwokOBfxU"  # Replace with your API key
+API_KEY = " "  # Replace with your API key
 gmaps = googlemaps.Client(key=API_KEY)
 
 print(f"Running {__file__} with Python: {sys.executable}")  # Corrected the variable name
